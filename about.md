@@ -15,15 +15,3 @@ You can find the source code for Jekyll at
 [jekyll](https://github.com/jekyll/jekyll)
 
 
-#heading 1
-## heading2
-### heading3
-####heading 4
-#####heading 5
-######heading 6
-
-> blockquote is simple
-> blockquote is more important
->> double blockquote is different
-
-![only use mdfile](http://spajungja.kr)
