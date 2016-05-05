@@ -19,3 +19,6 @@ github_username:  tfmustang
 markdown: kramdown
 kramdown:
   input: GFM
+gems: ["emoji_for_jekll"]
+gems:
+  - jemoji
