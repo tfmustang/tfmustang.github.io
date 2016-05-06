@@ -6,19 +6,16 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Story of tfmustang
+title: Story of TF-mustang
 name: tfmustang
 email: limuijin@gmail.com
-description: tfmustang's site
+description: TF-mustang's site
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://tfmustang.github.io" # the base hostname & protocol for your site
 twitter_username: tfmustang1
 github_username:  tfmustang
 
 # Build settings
-markdown: kramdown
 kramdown:
-  input: GFM
-gems: ["emoji_for_jekll"]
-gems:
-  - jemoji
+ input: GFM
+#gems: ["emoji_for_jekyll"]
