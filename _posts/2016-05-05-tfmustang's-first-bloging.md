@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "tfmustang's 첫번 째 블로깅"
-date:   2016-05-05 00:22:41 +0900
+title: "첫번 째 블로깅"
+date:   2016-05-05 00:22:51 +0900
 categories: lifestyle
 ---
 첫번 째 글쓰기.
