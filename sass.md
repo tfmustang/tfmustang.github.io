@@ -2,9 +2,10 @@
 
 title: 삽스정복
 layout: default
-categories: sass
+category: lifestyle
 
 ---
+
 삽스를 정복하기 위한 첫걸음.
 
 삽스 카테고리를 만들고 삽스페이지를 계속해서 만들예정임
@@ -13,4 +14,4 @@ categories: sass
 
 포스팅작업물들이 아래쪽에 나타나라 ㅎㅎ
 
-아니야... 이게 여기 오는게 아니고 레이아웃에 만들어야지 default처럼 하나 만들어야해 
+아니야... 이게 여기 오는게 아니고 레이아웃에 만들어야지 default처럼 하나 만들어야해
