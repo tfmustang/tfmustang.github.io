@@ -3,5 +3,15 @@ layout: default
 title: javascript
 ---
 자바스크립트 연습
-today is : <span id="testid"> </span>
-current time :
+
+<p id="intro">Hello World!</p>
+
+<p>This example demonstrates the <b>getElementById</b> method!</p>
+
+<p id="demo"></p>
+<script type="text/javascript">
+var myElement = document.getElementById("intro");
+document.getElementById("demo").innerHTML =
+"The text from the intro paragraph is " + myElement.innerHTML;
+
+</script>
