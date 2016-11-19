@@ -21,4 +21,4 @@ title: 나의링크들
 * [markup 유효성검사기](http://validator.kldp.org/)
 * [new home - dot home](http://limuijin.dothome.co.kr/)
 * [test](http://limuijin.dothome.co.kr/)
-* [tfmustaagn.dothome](http://tfmustang.dothome.co.kr/)
+* [국민의정부](http://www.kor.org)
