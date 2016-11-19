@@ -2,9 +2,6 @@
 layout : default
 title : machine-learning
 ---
-
-* [Lecture16 ](http://jun.hansung.ac.kr/ML/video-2016/ML-lecture-16.mp4)
-
 * [Lecture1](http://jun.hansung.ac.kr/ML/video-2016/ML-lecture-1.mp4)
 * [Lecture2](http://jun.hansung.ac.kr/ML/video-2016/ML-lecture-2.mp4)
 * [Lecture3](http://jun.hansung.ac.kr/ML/video-2016/ML-lecture-3.mp4)
