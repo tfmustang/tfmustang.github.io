@@ -1,3 +1,8 @@
+---
+layout : default
+title : machine-learning
+---
+
 * [Lecture16 normal equation 정규방정식](http://jun.hansung.ac.kr/ML/video-2016/ML-lecture-16.mp4)
 * [Lecture17](http://jun.hansung.ac.kr/ML/video-2016/ML-lecture-17.mp4)
 * [Lecture18](http://jun.hansung.ac.kr/ML/video-2016/ML-lecture-18.mp4)
