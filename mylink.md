@@ -22,8 +22,8 @@ title: 나의링크들
 * [new home - dot home](http://limuijin.dothome.co.kr/)
 * [test](http://limuijin.dothome.co.kr/)
 * [국민의정부](http://www.kor.org)
-#### 블로그
+## 블로그
 * [티스토리 여기이야기](http://tfmustang.tistory.com)
 * [jekyll's site](https://jekyllrb.com/docs/sites/)
-#### 그래픽 작업
+## 그래픽 작업
 * [티스토리 그레이몬스터의 포토일러](http://graymonster.tistory.com)
