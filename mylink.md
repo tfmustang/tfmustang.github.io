@@ -20,10 +20,12 @@ title: 나의링크들
 * [emmet cheat-sheet](http://docs.emmet.io/cheat-sheet/)
 * [visualgo](http://visualgo.net)
 * [정오표(frontenddev javascript-exercises)](http://www.insightbook.co.kr/books/programming-insight/professional-javascript-for-web-developers/%ec%a0%95%ec%98%a4%ed%91%9c)
-* [markup 유효성검사기](http://validator.kldp.org/)
+
+* [markup 유효성검사기](http://validator.kldp.org/)'
 * [new home - dot home](http://limuijin.dothome.co.kr/)
 * [test](http://limuijin.dothome.co.kr/)
 * [국민의정부](http://www.kor.org)
+
 
 ## 블로그
 * [티스토리 여기이야기](http://tfmustang.tistory.com)
@@ -32,3 +34,9 @@ title: 나의링크들
 
 ## 그래픽 작업
 * [티스토리 그레이몬스터의 포토일러](http://graymonster.tistory.com)
+* [웹아지트](http://www.webagit.com/)
+* [네이버 포토샵 디자인 돋아](http://m.blog.naver.com/PostList.nhn?blogId=nanumup&categoryNo=19)
+* [프리벡터.포토.템플릿.아이콘.등등](http://all-free-download.com/free-vectors/)
+
+## 벡엔드
+* [웹서버구축(apm)](http://jimnong.tistory.com/615)
