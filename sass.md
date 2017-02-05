@@ -1,9 +1,7 @@
 ---
-
-title: 삽스정복
+title: sass/scss
 layout: default
 category: lifestyle
-
 ---
 
 삽스를 정복하기 위한 첫걸음.

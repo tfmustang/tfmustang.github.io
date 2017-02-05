@@ -3,15 +3,25 @@ layout: default
 title: javascript
 ---
 자바스크립트 연습
+이 공간은 opentutorials.org "웹브라우저 & 자바스크립트" 강의 수업을 위한 연습공간입니다.
 
-<p id="intro">Hello World!</p>
+start exercise from this Line
+<style>
+  #selected{
+    color: green;
+  }
+  .dark{
+    background-color: black;
+    color: white;
+  }
+  .dark #selected{
+    color: yellow;
+  }
+</style>
 
-<p>This example demonstrates the <b>getElementById</b> method!</p>
-
-<p id="demo"></p>
-<script type="text/javascript">
-var myElement = document.getElementById("intro");
-document.getElementById("demo").innerHTML =
-"The text from the intro paragraph is " + myElement.innerHTML;
-
-</script>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li id='selected'>JavaScript</li>
+</ul>
+<input type="button" value='dark' onclick="document.body.className='dark';" />

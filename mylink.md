@@ -1,10 +1,9 @@
 ---
 layout: default
-title: 나의링크들
+title: My links
 ---
-
+내가 자주 사용하는 링크를 모아둠
 ## 링크모음
-
 * [제킬문서(jekyll-Document)](https://jekyllrb.com/docs/home/)
 * [제킬문서(한글)](http://jekyllrb-ko.github.io/)
 * [루비(한글)](https://www.ruby-lang.org/ko/)
