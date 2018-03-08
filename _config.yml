@@ -22,3 +22,5 @@ kramdown:
 
 # serve
 host: 192.168.0.11
+
+theme: jekyll-theme-tactile
