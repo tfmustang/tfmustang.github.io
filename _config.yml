@@ -21,6 +21,6 @@ kramdown:
 #gems: ["emoji_for_jekyll"]
 
 # serve
-host: 192.168.0.11
+host: 192.168.0.12
 
 theme: jekyll-theme-tactile
