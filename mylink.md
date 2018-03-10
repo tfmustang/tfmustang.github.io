@@ -1,8 +1,11 @@
 ---
 layout: default
-title: 나의링크들
+title: My links
 ---
+내가 자주 사용하는 링크를 모아둠
 
+
+## 링크모음
 * [제킬문서(jekyll-Document)](https://jekyllrb.com/docs/home/)
 * [제킬문서(한글)](http://jekyllrb-ko.github.io/)
 * [루비(한글)](https://www.ruby-lang.org/ko/)
@@ -18,4 +21,33 @@ title: 나의링크들
 * [emmet cheat-sheet](http://docs.emmet.io/cheat-sheet/)
 * [visualgo](http://visualgo.net)
 * [정오표(frontenddev javascript-exercises)](http://www.insightbook.co.kr/books/programming-insight/professional-javascript-for-web-developers/%ec%a0%95%ec%98%a4%ed%91%9c)
-* [markup 유효성검사기](http://validator.kldp.org/)
+
+* [markup 유효성검사기](http://validator.kldp.org/)'
+* [new home - dot home](http://limuijin.dothome.co.kr/)
+* [test](http://limuijin.dothome.co.kr/)
+* [국민의정부](http://www.kor.org)
+
+
+## 블로그
+* [티스토리 여기이야기](http://tfmustang.tistory.com)
+* [jekyll's site](https://jekyllrb.com/docs/sites/)
+* [깃허브 mark down 문법](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+
+## 그래픽 작업
+* [티스토리 그레이몬스터의 포토일러](http://graymonster.tistory.com)
+* [웹아지트](http://www.webagit.com/)
+* [네이버 포토샵 디자인 돋아](http://m.blog.naver.com/PostList.nhn?blogId=nanumup&categoryNo=19)
+* [프리벡터.포토.템플릿.아이콘.등등](http://all-free-download.com/free-vectors/)
+
+## 벡엔드
+* [웹서버구축(apm)](http://jimnong.tistory.com/615)
+
+## node.js
+
+## Css3
+* [W3Schools.com- Css](http://www.w3schools.com/css/default.asp)
+* [Css 규격 em,rem,vh,vw,vmin,vmax,calc()](http://cafe.naver.com/domfam/8921)
+
+## Precessing & P5
+* [P5](http://p5js.org/)
+* [Processing](https://processing.org/)

@@ -19,3 +19,8 @@ github_username:  tfmustang
 kramdown:
  input: GFM
 #gems: ["emoji_for_jekyll"]
+
+# serve
+host: 192.168.0.12
+
+theme: jekyll-theme-modernist
